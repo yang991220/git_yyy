@@ -1,0 +1,40 @@
+spring:
+  application:
+    name: usian-search-service
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/usian?characterEncoding=UTF-8
+    username: root
+    password: aaaa
+    type: com.alibaba.druid.pool.DruidDataSource
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.44.128:9200
+  rabbitmq:
+    host: 192.168.44.128
+    username: yyy
+    password: 1111
+    virtual-host: /usian
+    listener:
+      direct:
+        acknowledge-mode: manual
+      simple:
+        acknowledge-mode: manual
+server:
+  port: 8095
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
+
+mybatis:
+  # 定义mapper.xml的路径
+  mapper-locations: classpath*:mapper/*.xml
+  #起别名。可省略写mybatis的xml中的resultType的全路径
+  type-aliases-package: com.usian.pojo
+  configuration:
+    map-underscore-to-camel-case: true
+# tkmapper配置
+mapper:
+  not-empty: false
+  identity: mysql #指定tkmapper加载的数据库

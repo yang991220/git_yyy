@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: common-zuul
+server:
+  port: 7070
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
+zuul:
+  routes:
+    usian-item-web:
+      path: /item/**
+#  ignored-services: *
+

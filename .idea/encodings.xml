@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common_eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbContentCategoryMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbContentMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbItemCatMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbItemDescMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbItemMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbItemParamItemMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbItemParamMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbOrderItemMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbOrderMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbOrderShippingMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/java/com/usian/mapper/TbUserMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_mapper/src/main/resources/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbContent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbContentCategory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbItemCat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbItemDesc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbItemParam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbItemParamItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbOrder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbOrderItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbOrderShipping.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_pojo/src/main/java/com/usian/pojo/TbUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_cart_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_cart_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_cart_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_content_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_content_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_content_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_detail_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_item_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_item_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_item_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_order_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_order_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_order_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_portal_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_search_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_search_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_search_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_sso_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_sso_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usian_sso_web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

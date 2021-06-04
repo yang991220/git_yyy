@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: usian-sso-web
+  rabbitmq:
+    host: 192.168.44.128
+    username: yyy
+    password: 1111
+    virtual-host: /usian
+server:
+  port: 8099
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
